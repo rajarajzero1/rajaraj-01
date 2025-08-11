@@ -1,5 +1,5 @@
 Hello! My Name is Rajkumar-
--I'm interested in C-programming language 
+-I'm interested in software programs 
 - 🌱 I’m currently learning ...c language
 - 💞️ I’m looking to collaborate on ...improve my learning
 - 📫 How to reach me ...?
